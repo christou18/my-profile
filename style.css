@@ -1,0 +1,48 @@
+  
+a {
+    font-size: 80px;
+    color:black;
+    font-family: 'Mukta', sans-serif;
+}
+  h2 {
+    font-weight: bolder;
+    color: red;
+    font-size: 50px;
+    font family: 'Josef in Sans', sans sersif; 
+}
+  h3 {
+    font-weight: bolder;
+    color: grey;
+    font-size: 15px;
+    font family: 'Arial', sans sersif; 
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 150%;
+}
+p{ 
+  font-family: 'Noto sans';  }
+
+body{
+text-align: center;
+    color: black;
+    background-color: orange}
+
+
+  .section {
+    background-color: white;
+    shape-margin: : purple;
+    width: : 900px;
+    margin: 50px;
+    padding: 30px 20px ;
+     }
+
+       .section {
+    background-color: purple;
+    shape-margin: : purple;
+    width: : 900px;
+    margin: 50px;
+    padding: 30px 20px ;
+     }
